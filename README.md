@@ -1,4 +1,4 @@
-![MasterHead](file:///C:/Users/ACER/Downloads/prathmesh%20shelar%20(2).png)
+![MasterHead]([file:///C:/Users/ACER/Downloads/prathmesh%20shelar%20(2).png](https://codertal.com/wp-content/uploads/2022/12/java-development.jpeg))
 <h1 align="center">Hi 👋, I'm Prathmesh Shelar</h1>
 <h3 align="center">A passionate Java FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s">
